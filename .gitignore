@@ -107,6 +107,9 @@ venv.bak/
 .idea/
 
 # 数据文件
+captcha_122_images/
+captcha_1024_images/
+know_captcha_1024_images/
 sample/
 model/
 labels.json

@@ -1,0 +1,11 @@
+{
+  "root_dir": "sample/4_word_captcha/",
+  "image_suffix": "png",
+  "characters": "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+  "count": 20000,
+  "char_length": 4,
+  "width": 130,
+  "height": 50,
+  "font_file": "fonts/Panton_Narrow_ExtraBold.ttf",
+  "font_size": 38
+}
